@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hey 👋, I'm Mansi Bhiwapurkar 
 
 
-**Mansi9764/Mansi9764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Graduate Student At California State University,Long Beach - Information Systems** 
 
-Here are some ideas to get you started:
+Experienced Software Development Engineer with 4 years of work experience - skilled in building and maintaining efficient, scalable, and reliable software systems.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
