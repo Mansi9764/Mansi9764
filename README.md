@@ -11,4 +11,7 @@ I have been privileged to have academic and professional exposure to multiple te
 - 🌱 I’m currently learning machine learning and artificial intelligence.
 - :technologist:All of my projects are available on https://github.com/Mansi9764
 - 📫 Contact me for jobs, chats, advice, collaborations on mansibhiwapurkar97@gmail.com
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mansi9764)](https://github.com/ryo-ma/github-profile-trophy)
+
  
